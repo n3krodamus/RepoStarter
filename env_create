@@ -1,0 +1,3 @@
+export USERNAME_GIT="USERNAME"
+export PROY_FILEPATH="working_directory"
+export TOKEN_GIT="TOKEN"
