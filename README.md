@@ -15,3 +15,7 @@ source ~/.bashrc
 To run the script type in 'create <name of your folder>'
 ```
 
+### Credits:
+```
+This project is inspired in Kalle Hallden project here https://github.com/KalleHallden/ProjectInitializationAutomation
+```
